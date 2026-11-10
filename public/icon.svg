@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="50%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#3730a3"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bgGrad)"/>
+  <path d="M256 64L384 120V248C384 332 328 408 256 448C184 408 128 332 128 248V120L256 64Z" fill="url(#shieldGrad)" stroke="#818cf8" stroke-width="12"/>
+  <path d="M256 160C273.673 160 288 174.327 288 192C288 209.673 273.673 224 256 224C238.327 224 224 209.673 224 192C224 174.327 238.327 160 256 160Z" fill="#ffffff"/>
+  <path d="M208 248C181.49 248 160 269.49 160 296V312C160 320.837 167.163 328 176 328H336C344.837 328 352 320.837 352 312V296C352 269.49 330.51 248 304 248H208Z" fill="#ffffff"/>
+  <circle cx="256" cy="368" r="8" fill="#a5b4fc"/>
+  <circle cx="236" cy="368" r="4" fill="#a5b4fc"/>
+  <circle cx="276" cy="368" r="4" fill="#a5b4fc"/>
+</svg>

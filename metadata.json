@@ -1,0 +1,6 @@
+{
+  "name": "KidsGuardian Safety Hub",
+  "description": "Comprehensive parental control platform with screen time limits, AI web & app content filtering, live location tracking with geofences, child device sync, and digital safety insights.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
